@@ -12,6 +12,9 @@
 * graph.PNG - example of program output
 * assignment02RunningHolop.csv - example of program output
 ------------------------------------------------------------------------
+#### Dependencies:
+* X-chart - https://knowm.org/open-source/xchart/
+------------------------------------------------------------------------
 #### Instructions:
 * Place all the files in a project and run main in Assignment02.java
 * Output:
