@@ -43,7 +43,7 @@ class SortingAlgorithms{
     public static <T extends Comparable <? super T>> void bubbleSort(T[] a)
     {
         int n = a.length;
-        boolean swapped = false;
+        boolean swapped = true;
         while (swapped) 
         {
             swapped = false;
